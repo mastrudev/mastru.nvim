@@ -44,13 +44,13 @@ Telescope provides a fast, centered file picker and project search workflow.
 1. Clone this repository:
 
    ```sh
-   git clone https://github.com/mastrudev/mastru-nvim-config.git
+   git clone https://github.com/mastrudev/mastru.nvim.git
    ```
 
 2. Move the cloned folder into Neovim's configuration location:
 
    ```sh
-   mv mastru-nvim-config ~/.config/nvim
+   mv mastru.nvim ~/.config/nvim
    ```
 
 3. Start Neovim:
