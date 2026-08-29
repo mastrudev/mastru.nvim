@@ -4,8 +4,6 @@ A small, modern Neovim configuration focused on an uncluttered editing experienc
 
 ![Blu Perla README artwork](assets/blu-perla-readme-banner.png)
 
-> The Blu Perla artwork is the visual identity of this README only. It does not alter the Neovim color configuration.
-
 ## What is included
 
 - Dark **Nordfox** theme, customized with graphite backgrounds and blue-grey selection surfaces.
