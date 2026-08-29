@@ -165,4 +165,4 @@ Change these hex values to tune the editor while retaining the Nordfox syntax co
 
 ## License
 
-A
+MIT. 
